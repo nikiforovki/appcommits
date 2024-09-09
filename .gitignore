@@ -1,0 +1,4 @@
+codenode_modules/
+dist/
+.env
+node_modules

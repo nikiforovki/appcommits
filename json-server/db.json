@@ -1,0 +1,25 @@
+{
+  "comments": [
+    {
+      "id": "1725827616025",
+      "img": "/img/IconMan.svg",
+      "author": "John Doe",
+      "text": "вывы",
+      "timestamp": "2024-09-08T20:33:36.025Z",
+      "liked": false,
+      "isBold": false,
+      "isItalic": false,
+      "isLink": false,
+      "replies": []
+    }
+  ],
+  "replies": [
+    {
+      "id": "ef2f",
+      "commentId": "1725827616025",
+      "author": "John Doe",
+      "text": "выыв",
+      "timestamp": "2024-09-09T08:50:22.026Z"
+    }
+  ]
+}
