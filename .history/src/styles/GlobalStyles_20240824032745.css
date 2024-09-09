@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(66, 155, 223, 0.64);
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Black';
+  src: url('./../../public/assets/SourceSansPro-Black.ttf') format('truetype');
+}

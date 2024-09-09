@@ -1,0 +1,23 @@
+{
+  "comments": [
+    {
+      "id": "1724381790004",
+      "img": "/img/IconMan.svg",
+      "author": "Jane Smith",
+      "text": "ddd",
+      "timestamp": "2024-08-23T02:56:30.004Z",
+      "liked": false,
+      "replies": []
+    },
+    {
+      "id": "1724382726093",
+      "img": "/img/IconMan.svg",
+      "author": "Jane Smith",
+      "text": "ывывыв",
+      "isBold": true,
+      "timestamp": "2024-08-23T03:12:06.093Z",
+      "liked": false,
+      "replies": []
+    }
+  ]
+}

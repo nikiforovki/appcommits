@@ -1,0 +1,42 @@
+{
+  "comments": [
+    {
+      "id": "1724444371668",
+      "img": "/img/IconMan.svg",
+      "author": "John Doe",
+      "text": "Привет",
+      "timestamp": "2024-08-23T20:19:31.668Z",
+      "liked": false,
+      "isBold": false,
+      "isItalic": false,
+      "isLink": false,
+      "replies": [
+        {
+          "id": "unique-reply-id-1",
+          "author": "John Doe",
+          "text": "Ответ на коментарий",
+          "timestamp": "2024-08-23T20:20:31.668Z"
+        }
+      ]
+    },
+    {
+      "id": "1724444371668",
+      "img": "/img/IconWomen.svg",
+      "author": "John Doe",
+      "text": "Привет",
+      "timestamp": "2024-08-23T20:19:31.668Z",
+      "liked": false,
+      "isBold": false,
+      "isItalic": false,
+      "isLink": false,
+      "replies": [
+        {
+          "id": "unique-reply-id-1",
+          "author": "John Doe",
+          "text": "Ответ на коментарий",
+          "timestamp": "2024-08-23T20:20:31.668Z"
+        }
+      ]
+    }
+  ]
+}

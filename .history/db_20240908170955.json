@@ -1,0 +1,19 @@
+{
+  "comments": [],
+  "replies": [
+    {
+      "id": "edc1",
+      "commentId": null,
+      "author": "John Doe",
+      "text": "выыв",
+      "timestamp": "2024-09-08T14:00:51.574Z"
+    },
+    {
+      "id": "e954",
+      "commentId": null,
+      "author": "John Doe",
+      "text": "вывы",
+      "timestamp": "2024-09-08T14:09:33.760Z"
+    }
+  ]
+}

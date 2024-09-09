@@ -1,0 +1,56 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["*"]
+    }
+  },
+  "include": ["src", "declarations.d.ts", "."],
+  "exclude": ["node_modules"]
+}
+
+
+
+
+//  // Конфигурация компилятора TypeScript
+//  "compilerOptions": {
+//    // ...конфигурация компилятора TypeScript...
+//    "baseUrl": ".",
+//    "paths": {
+//      "@/*": ["src/*"],
+//      "@styles/*": ["src/styles/*"],
+//    },
+//    // Директория, куда будут помещаться скомпилированные файлы
+//    "outDir": "./dist/",
+//    // Генерировать ли source maps для отладки
+//    "sourceMap": true,
+//    // Включение строгой типизации TypeScript
+//    "strict": true,
+//    // Версия ECMAScript модулей, которые будут использоваться
+//    "module": "es6",
+//    // Версия ECMAScript, в которую компилируются TypeScript-файлы
+//    "target": "es5",
+//    // Поддержка JSX в TypeScript
+//    "jsx": "react",
+//    // Разрешить компиляцию JavaScript-файлов
+//    "allowJs": true,
+//    // Разрешить импорт модулей, использующих CommonJS-формат, с помощью оператора import
+//    "esModuleInterop": true,
+//    // Отключить проверку типов в сторонних библиотеках (TypeScript Declaration Files)
+//    "skipLibCheck": true,
+//    // Включить проверку на совместимость в именах файлов
+//    "forceConsistentCasingInFileNames": true
+//  }
+//}
+
